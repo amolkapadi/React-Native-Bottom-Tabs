@@ -44,7 +44,8 @@ yarn ios
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.![Untitled design (1)](https://github.com/amolkapadi/React-Native-Bottom-Tabs/assets/72144987/a5bd6a15-0f66-4f9a-ada0-7ccf46c6887b)
+
 
 ## Step 3: Modifying your App
 
